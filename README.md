@@ -1,5 +1,7 @@
 Air Quality Index (AQI) Predictor
+
 Project Overview
+
 This project focuses on building a robust Air Quality Index (AQI) predictor for Bangalore city, leveraging a combination of traditional Machine Learning models and the power of automated machine learning (AutoML) with the TPOT library. The goal is to forecast air quality based on historical data.
 
 Problem Statement
